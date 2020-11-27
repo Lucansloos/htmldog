@@ -1,8 +1,11 @@
-
 p {
-    color: red;
+    color: #007dad;
 }
 
 a {
     color: blue;
+}
+body{
+	font-size: 15px;
+	color: turquoise;
 }
