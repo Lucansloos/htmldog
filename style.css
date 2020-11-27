@@ -9,3 +9,7 @@ body{
 	font-size: 15px;
 	color: turquoise;
 }
+h1 {
+    color: white;
+    background-color: #007dad;
+}
